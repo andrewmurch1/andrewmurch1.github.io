@@ -1,0 +1,46 @@
+style.css
+
+body {
+	background-color: white;
+}
+h1 {
+	text-align: center;
+	font-family: arial, sans-serif;
+	font-weight: bold;
+	text-transform: uppercase;
+	color: #deb887;
+	}
+h3 {
+	text-align: center;
+	font-family: arial, sans-serif;
+	font-weight: bold;
+	text-transform: uppercase;
+	font-style: italic;
+	color: #deb887;
+	}
+p {
+    text-align: center;
+    color: #deb887;
+    font-family: Arial;
+
+}
+ul
+	{
+	text-align: center;
+	list-style-type: none;
+	font-family: arial, sans-serif;
+	font-weight: bold;
+	color: #deb887;
+	}
+a
+	{
+	text-align: center;
+	font-family: arial, sans-serif;
+	font-weight: bold;
+	text-transform: uppercase;
+	color: #deb887;
+}
+img {
+    width: 100%;
+    height: auto;
+}
