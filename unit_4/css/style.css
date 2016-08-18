@@ -1,0 +1,48 @@
+style.css
+<style>
+@import 'https://fonts.googleapis.com/css?family=Quicksand';
+</style>
+body {
+	background-color: white;
+}
+h1 {
+	text-align: center;
+	font-family: 'Quicksand', sans-serif;
+	font-weight: bold;
+	text-transform: none;
+	color: #deb887;
+	}
+h3 {
+	text-align: center;
+	font-family: 'Quicksand', sans-serif;
+	font-weight: normal;
+	text-transform: uppercase;
+	font-style: italic;
+	color: #deb887;
+	}
+p {
+    text-align: center;
+    color: #deb887;
+    font-family: 'Quicksand';
+
+}
+ul
+	{
+	text-align: center;
+	list-style-type: none;
+	font-family: 'Quicksand', sans-serif;
+	font-weight: bold;
+	color: #deb887;
+	}
+a
+	{
+	text-align: center;
+	font-family: 'Quicksand', sans-serif;
+	font-weight: bold;
+	text-transform: uppercase;
+	color: #deb887;
+}
+img {
+    width: 100%;
+    height: auto;
+}
