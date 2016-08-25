@@ -36,14 +36,14 @@ a {
 }
 
 header {
-    background-color: beige;
+    background-color: #FFED74;
     border: 5px beige solid;
     padding: 20px;
 }
 nav {
 	text-align: center;
-	background-color: #333333;
-	border: 5px #333333 solid;
+	background-color: #E8C66A  ;
+	border: 5px #E8C66A   solid;
 }
 
 main {
@@ -54,6 +54,7 @@ main {
 article {
 	padding: 30px 0;
 	border-bottom: 2px solid #deb887
+	background-color: #E89C6C ;
 }
 
 p {
@@ -66,6 +67,7 @@ aside {
 	padding-top: 20px
 	float: left;
 	width: auto;
+	background-color: #E8C66A;
 }
 
 ul{
@@ -75,6 +77,7 @@ ul{
 	font-weight: bold;
 	color: #deb887;
 	padding-left: 20px;
+	background-color: #FFC675;
 	}
 a
 	{
@@ -93,7 +96,7 @@ footer {
 	text-align: center;
 	text-weight: bold;
 	clear: both;
-	background-color: #333333;
+	background-color: #FF957E  ;
 	padding: 20px;
 }
 .clearfix:after {
@@ -110,4 +113,5 @@ footer {
 	width: 1080px;
 	margin-left: auto;
 	margin-right: auto;
+	background-color: #FFE2B8
 }
