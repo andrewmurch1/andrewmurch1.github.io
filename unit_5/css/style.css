@@ -1,0 +1,113 @@
+style.css
+<style>
+@import 'https://fonts.googleapis.com/css?family=Quicksand';
+</style>
+body {
+	background-color: white;
+}
+h1 {
+	text-align: left;
+	font-family: 'Quicksand', sans-serif;
+	font-weight: bold;
+	text-transform: none;
+	color: #deb887;
+	
+	}
+h3 {
+	text-align: left;
+	font-family: 'Quicksand', sans-serif;
+	font-weight: normal;
+	text-transform: uppercase;
+	font-style: italic;
+	color: #deb887;
+	;
+	}
+h4 {
+	text-align: left;
+	font-family: 'Quicksand', sans-serif;
+	font-weight: bold;
+	text-transform: none;
+	color: #deb887;}
+	padding-left: 20px;
+
+a {
+	color:#deb887
+	text-decoration: none;
+}
+
+header {
+    background-color: beige;
+    border: 5px beige solid;
+    padding: 20px;
+}
+nav {
+	text-align: center;
+	background-color: #333333;
+	border: 5px #333333 solid;
+}
+
+main {
+	width: auto;
+	float: center;
+}
+
+article {
+	padding: 30px 0;
+	border-bottom: 2px solid #deb887
+}
+
+p {
+    text-align: center;
+    color: #deb887;
+    font-family: 'Quicksand';
+}
+
+aside {
+	padding-top: 20px
+	float: left;
+	width: auto;
+}
+
+ul{
+	text-align: left;
+	list-style-type: none;
+	font-family: 'Quicksand', sans-serif;
+	font-weight: bold;
+	color: #deb887;
+	padding-left: 20px;
+	}
+a
+	{
+	text-align: center;
+	font-family: 'Quicksand', sans-serif;
+	font-weight: bold;
+	text-transform: uppercase;
+	color: #deb887;
+}
+img {
+    width: 100%;
+    height: auto;
+}
+
+footer {
+	text-align: center;
+	text-weight: bold;
+	clear: both;
+	background-color: #333333;
+	padding: 20px;
+}
+.clearfix:after {
+	display: block;
+	content: " ";
+	clear: both;
+
+	height: 0;
+	font-size: 0;
+	visibility; hidden;
+}
+
+#wrapper {
+	width: 1080px;
+	margin-left: auto;
+	margin-right: auto;
+}
